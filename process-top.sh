@@ -1,5 +1,5 @@
 #!/bin/bash
-files=$(ls *json)
+files=$(ls json/*json)
 i=0
 for name in ${files[@]}; do
 ((i++));

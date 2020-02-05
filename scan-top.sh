@@ -4,5 +4,5 @@ i=0
 for name in ${ntweb[@]}; do
 ((i++));
 echo "Scanning item $name ($i of ${#ntweb[@]})"
-sudo docker run --rm wappalyzer/cli https://$name | jq > "$name.json"
+sudo docker run --rm wappalyzer/cli https://$name | jq > "json/$name.json"
 done
