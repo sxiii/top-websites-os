@@ -1,0 +1,51 @@
+{
+  "urls": {
+    "https://telenor.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "SDL Tridion",
+      "confidence": "100",
+      "version": null,
+      "icon": "SDL Tridion.png",
+      "website": "http://www.sdl.com/products/tridion",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Tealium",
+      "confidence": "100",
+      "version": null,
+      "icon": "Tealium.png",
+      "website": "http://tealium.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  }
+}

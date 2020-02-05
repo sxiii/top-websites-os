@@ -1,0 +1,96 @@
+{
+  "urls": {
+    "https://dn.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Adobe DTM",
+      "confidence": "100",
+      "version": null,
+      "icon": "adobedmt.png",
+      "website": "https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "OWL Carousel",
+      "confidence": "100",
+      "version": null,
+      "icon": "OWL Carousel.png",
+      "website": "https://owlcarousel2.github.io/OwlCarousel2/",
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "confidence": "100",
+      "version": "2.6.10",
+      "icon": "Vue.js.png",
+      "website": "http://vuejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  }
+}

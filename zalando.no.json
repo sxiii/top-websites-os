@@ -1,0 +1,48 @@
+{
+  "urls": {
+    "https://zalando.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Akamai",
+      "confidence": "100",
+      "version": null,
+      "icon": "akamai.svg",
+      "website": "http://akamai.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.1.22",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no-NO"
+  }
+}

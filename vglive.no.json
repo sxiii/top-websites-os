@@ -1,0 +1,87 @@
+{
+  "urls": {
+    "https://vglive.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AppNexus",
+      "confidence": "100",
+      "version": null,
+      "icon": "AppNexus.svg",
+      "website": "http://appnexus.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "New Relic",
+      "confidence": "100",
+      "version": null,
+      "icon": "New Relic.png",
+      "website": "https://newrelic.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.15.5",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

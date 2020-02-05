@@ -1,0 +1,156 @@
+{
+  "urls": {
+    "https://e24.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AT Internet Analyzer",
+      "confidence": "100",
+      "version": null,
+      "icon": "AT Internet.png",
+      "website": "http://atinternet.com/en",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "AT Internet XiTi",
+      "confidence": "100",
+      "version": null,
+      "icon": "AT Internet.png",
+      "website": "http://atinternet.com/en",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.2.15",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "AppNexus",
+      "confidence": "100",
+      "version": null,
+      "icon": "AppNexus.svg",
+      "website": "http://appnexus.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "CentOS",
+      "confidence": "100",
+      "version": null,
+      "icon": "CentOS.png",
+      "website": "http://centos.org",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "New Relic",
+      "confidence": "100",
+      "version": null,
+      "icon": "New Relic.png",
+      "website": "https://newrelic.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.1.10",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb"
+  }
+}

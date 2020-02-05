@@ -1,0 +1,84 @@
+{
+  "urls": {
+    "https://adressa.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.2.0",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Varnish",
+      "confidence": "100",
+      "version": null,
+      "icon": "Varnish.svg",
+      "website": "http://www.varnish-cache.org",
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.11.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb"
+  }
+}

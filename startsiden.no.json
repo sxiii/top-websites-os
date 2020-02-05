@@ -1,0 +1,123 @@
+{
+  "urls": {
+    "https://startsiden.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Chartbeat",
+      "confidence": "100",
+      "version": null,
+      "icon": "Chartbeat.png",
+      "website": "http://chartbeat.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": null,
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Prebid",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prebid.png",
+      "website": "http://prebid.org",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "ZURB Foundation",
+      "confidence": "100",
+      "version": null,
+      "icon": "ZURB Foundation.png",
+      "website": "http://foundation.zurb.com",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

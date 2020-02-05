@@ -1,0 +1,84 @@
+{
+  "urls": {
+    "https://yr.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "OpenLayers",
+      "confidence": "100",
+      "version": "2.13.1",
+      "icon": "OpenLayers.png",
+      "website": "https://openlayers.org",
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "confidence": "100",
+      "version": null,
+      "icon": "Twitter.svg",
+      "website": "http://twitter.com",
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.12.3",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb-no"
+  }
+}

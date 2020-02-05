@@ -1,0 +1,48 @@
+{
+  "urls": {
+    "https://dinside.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "DoubleClick for Publishers (DFP)",
+      "confidence": "100",
+      "version": null,
+      "icon": "DoubleClick.svg",
+      "website": "http://www.google.com/dfp",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "ZURB Foundation",
+      "confidence": "100",
+      "version": null,
+      "icon": "ZURB Foundation.png",
+      "website": "http://foundation.zurb.com",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

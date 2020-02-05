@@ -1,0 +1,36 @@
+{
+  "urls": {
+    "https://tv2.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Prebid",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prebid.png",
+      "website": "http://prebid.org",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb"
+  }
+}

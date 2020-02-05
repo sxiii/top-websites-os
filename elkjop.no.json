@@ -1,0 +1,132 @@
+{
+  "urls": {
+    "https://elkjop.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Akamai",
+      "confidence": "100",
+      "version": null,
+      "icon": "akamai.svg",
+      "website": "http://akamai.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Backbone.js",
+      "confidence": "100",
+      "version": "1.3.2",
+      "icon": "Backbone.js.png",
+      "website": "http://backbonejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Intershop",
+      "confidence": "100",
+      "version": null,
+      "icon": "Intershop.png",
+      "website": "http://intershop.com",
+      "categories": [
+        {
+          "6": "Ecommerce"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.7.0",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.2.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Underscore.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "Underscore.js.png",
+      "website": "http://underscorejs.org",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": null
+  }
+}

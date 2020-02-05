@@ -1,0 +1,132 @@
+{
+  "urls": {
+    "https://1881.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "8.0",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Leaflet",
+      "confidence": "100",
+      "version": "1.0.2+4bbb16c",
+      "icon": "Leaflet.png",
+      "website": "http://leafletjs.com",
+      "categories": [
+        {
+          "35": "Maps"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": "4.0.30319",
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.1.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery Migrate",
+      "confidence": "100",
+      "version": "3.0.0",
+      "icon": "jQuery.svg",
+      "website": "https://github.com/jquery/jquery-migrate",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.11.4",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

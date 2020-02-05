@@ -1,0 +1,48 @@
+{
+  "urls": {
+    "https://gulesider.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "SiteCatalyst",
+      "confidence": "100",
+      "version": null,
+      "icon": "SiteCatalyst.png",
+      "website": "http://www.adobe.com/solutions/digital-marketing.html",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

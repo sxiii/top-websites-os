@@ -1,0 +1,13 @@
+{
+  "urls": {
+    "https://website/": {
+      "status": 0,
+      "error": {
+        "type": "NO_RESPONSE",
+        "message": "No response from server"
+      }
+    }
+  },
+  "applications": [],
+  "meta": {}
+}

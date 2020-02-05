@@ -1,0 +1,192 @@
+{
+  "urls": {
+    "https://komplett.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Akamai",
+      "confidence": "100",
+      "version": null,
+      "icon": "akamai.svg",
+      "website": "http://akamai.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Criteo",
+      "confidence": "100",
+      "version": null,
+      "icon": "Criteo.svg",
+      "website": "http://criteo.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hammer.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hammer.js.png",
+      "website": "https://hammerjs.github.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "IIS",
+      "confidence": "100",
+      "version": "10.0",
+      "icon": "IIS.png",
+      "website": "http://www.iis.net",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Knockout.js",
+      "confidence": "100",
+      "version": "3.4.2",
+      "icon": "Knockout.js.png",
+      "website": "http://knockoutjs.com",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft ASP.NET",
+      "confidence": "100",
+      "version": null,
+      "icon": "Microsoft ASP.NET.png",
+      "website": "https://www.asp.net",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.1.22",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "parcel",
+      "confidence": "100",
+      "version": null,
+      "icon": "Parcel.png",
+      "website": "https://parceljs.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Windows Server",
+      "confidence": "0",
+      "version": null,
+      "icon": "WindowsServer.png",
+      "website": "http://microsoft.com/windowsserver",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

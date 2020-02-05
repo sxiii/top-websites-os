@@ -1,0 +1,2 @@
+"urls","applications","meta"
+"{""https://finn.no/"":{""status"":200}}","[{""name"":""AppNexus"",""confidence"":""100"",""version"":null,""icon"":""AppNexus.svg"",""website"":""http://appnexus.com"",""categories"":[{""36"":""Advertising Networks""}]},{""name"":""React"",""confidence"":""100"",""version"":null,""icon"":""React.png"",""website"":""https://reactjs.org"",""categories"":[{""12"":""JavaScript Frameworks""}]}]","{""language"":""nb-NO""}"

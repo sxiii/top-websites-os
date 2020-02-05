@@ -1,0 +1,84 @@
+{
+  "urls": {
+    "https://vg.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": "2.4.6",
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "CentOS",
+      "confidence": "100",
+      "version": null,
+      "icon": "CentOS.png",
+      "website": "http://centos.org",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": "2.3.6",
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.0",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

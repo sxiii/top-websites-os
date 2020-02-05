@@ -1,0 +1,159 @@
+{
+  "urls": {
+    "https://dagbladet.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "DoubleClick for Publishers (DFP)",
+      "confidence": "100",
+      "version": null,
+      "icon": "DoubleClick.svg",
+      "website": "http://www.google.com/dfp",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Modernizr",
+      "confidence": "100",
+      "version": "2.8.3",
+      "icon": "Modernizr.svg",
+      "website": "https://modernizr.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Moment.js",
+      "confidence": "100",
+      "version": "2.24.0",
+      "icon": "Moment.js.svg",
+      "website": "https://momentjs.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Mustache",
+      "confidence": "100",
+      "version": "1.1.0",
+      "icon": "Mustache.png",
+      "website": "https://mustache.github.io",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Prebid",
+      "confidence": "100",
+      "version": null,
+      "icon": "Prebid.png",
+      "website": "http://prebid.org",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "ZURB Foundation",
+      "confidence": "100",
+      "version": "5.5.1",
+      "icon": "ZURB Foundation.png",
+      "website": "http://foundation.zurb.com",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "comScore",
+      "confidence": "100",
+      "version": null,
+      "icon": "comScore.png",
+      "website": "http://comscore.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "2.1.4",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "styled-components",
+      "confidence": "100",
+      "version": null,
+      "icon": "styled-components.png",
+      "website": "https://styled-components.com",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        },
+        {
+          "47": "Dev Tools"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "0",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

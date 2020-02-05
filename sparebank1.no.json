@@ -1,0 +1,132 @@
+{
+  "urls": {
+    "https://sparebank1.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Adobe Experience Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Adobe Experience Manager.svg",
+      "website": "https://www.adobe.com/marketing/experience-manager.html",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Apache",
+      "confidence": "100",
+      "version": null,
+      "icon": "Apache.svg",
+      "website": "http://apache.org",
+      "categories": [
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "Backbone.js",
+      "confidence": "100",
+      "version": "1.2.3",
+      "icon": "Backbone.js.png",
+      "website": "http://backbonejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Lodash",
+      "confidence": "100",
+      "version": "4.17.11",
+      "icon": "Lo-dash.png",
+      "website": "http://www.lodash.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "100",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.2.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": "0",
+      "version": null,
+      "icon": "Java.png",
+      "website": "http://java.com",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "name": "Underscore.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "Underscore.js.png",
+      "website": "http://underscorejs.org",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb"
+  }
+}

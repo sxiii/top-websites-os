@@ -1,0 +1,72 @@
+{
+  "urls": {
+    "https://bt.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AppNexus",
+      "confidence": "100",
+      "version": null,
+      "icon": "AppNexus.svg",
+      "website": "http://appnexus.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Polyfill",
+      "confidence": "100",
+      "version": null,
+      "icon": "polyfill.svg",
+      "website": "https://polyfill.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.4.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

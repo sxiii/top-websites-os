@@ -1,0 +1,84 @@
+{
+  "urls": {
+    "https://tek.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amazon Cloudfront",
+      "confidence": "100",
+      "version": null,
+      "icon": "Amazon-Cloudfront.svg",
+      "website": "http://aws.amazon.com/cloudfront/",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "AppNexus",
+      "confidence": "100",
+      "version": null,
+      "icon": "AppNexus.svg",
+      "website": "http://appnexus.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "confidence": "100",
+      "version": null,
+      "icon": "Hotjar.png",
+      "website": "https://www.hotjar.com",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "100",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "confidence": "0",
+      "version": null,
+      "icon": "aws.svg",
+      "website": "https://aws.amazon.com/",
+      "categories": [
+        {
+          "62": "PaaS"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

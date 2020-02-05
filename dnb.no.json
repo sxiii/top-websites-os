@@ -1,0 +1,96 @@
+{
+  "urls": {
+    "https://dnb.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Adobe DTM",
+      "confidence": "100",
+      "version": null,
+      "icon": "adobedmt.png",
+      "website": "https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Dojo",
+      "confidence": "100",
+      "version": "1",
+      "icon": "Dojo.png",
+      "website": "https://dojotoolkit.org",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Java Servlet",
+      "confidence": "100",
+      "version": "3.1",
+      "icon": "Java.png",
+      "website": "http://www.oracle.com/technetwork/java/index-jsp-135475.html",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "RequireJS",
+      "confidence": "100",
+      "version": null,
+      "icon": "RequireJS.png",
+      "website": "http://requirejs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.7.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.8.18",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "confidence": "0",
+      "version": null,
+      "icon": "Java.png",
+      "website": "http://java.com",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "urls": {
+    "https://prisjakt.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Amplitude",
+      "confidence": "100",
+      "version": null,
+      "icon": "amplitude.png",
+      "website": "https://amplitude.com/",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "AppNexus",
+      "confidence": "100",
+      "version": null,
+      "icon": "AppNexus.svg",
+      "website": "http://appnexus.com",
+      "categories": [
+        {
+          "36": "Advertising Networks"
+        }
+      ]
+    },
+    {
+      "name": "CloudFlare",
+      "confidence": "100",
+      "version": null,
+      "icon": "CloudFlare.svg",
+      "website": "http://www.cloudflare.com",
+      "categories": [
+        {
+          "31": "CDN"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "confidence": "100",
+      "version": null,
+      "icon": "Facebook.svg",
+      "website": "http://facebook.com",
+      "categories": [
+        {
+          "5": "Widgets"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb-no"
+  }
+}

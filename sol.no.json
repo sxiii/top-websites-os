@@ -1,0 +1,87 @@
+{
+  "urls": {
+    "https://sol.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Font API",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Font API.png",
+      "website": "http://google.com/fonts",
+      "categories": [
+        {
+          "17": "Font Scripts"
+        }
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Next.js",
+      "confidence": "100",
+      "version": null,
+      "icon": "zeit.svg",
+      "website": "https://github.com/zeit/next.js",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        },
+        {
+          "22": "Web Servers"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": "0",
+      "version": null,
+      "icon": "React.png",
+      "website": "https://reactjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "webpack",
+      "confidence": "0",
+      "version": null,
+      "icon": "webpack.svg",
+      "website": "https://webpack.js.org/",
+      "categories": [
+        {
+          "19": "Miscellaneous"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "confidence": "0",
+      "version": null,
+      "icon": "node.js.png",
+      "website": "http://nodejs.org",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

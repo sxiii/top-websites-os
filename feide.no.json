@@ -1,0 +1,99 @@
+{
+  "urls": {
+    "https://feide.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Bootstrap",
+      "confidence": "100",
+      "version": "3.3.4",
+      "icon": "Bootstrap.png",
+      "website": "https://getbootstrap.com",
+      "categories": [
+        {
+          "18": "Web Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "Drupal",
+      "confidence": "100",
+      "version": "7",
+      "icon": "Drupal.svg",
+      "website": "https://drupal.org",
+      "categories": [
+        {
+          "1": "CMS"
+        }
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Analytics.svg",
+      "website": "http://google.com/analytics",
+      "categories": [
+        {
+          "10": "Analytics"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.10.3",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "confidence": "100",
+      "version": null,
+      "icon": "Ubuntu.png",
+      "website": "http://www.ubuntu.com/server",
+      "categories": [
+        {
+          "28": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "1.10.2",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "confidence": "0",
+      "version": null,
+      "icon": "PHP.svg",
+      "website": "http://php.net",
+      "categories": [
+        {
+          "27": "Programming Languages"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "nb"
+  }
+}

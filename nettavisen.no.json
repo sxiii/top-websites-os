@@ -1,0 +1,75 @@
+{
+  "urls": {
+    "https://nettavisen.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "Google Tag Manager",
+      "confidence": "100",
+      "version": null,
+      "icon": "Google Tag Manager.png",
+      "website": "http://www.google.com/tagmanager",
+      "categories": [
+        {
+          "42": "Tag Managers"
+        }
+      ]
+    },
+    {
+      "name": "Hammer.js",
+      "confidence": "100",
+      "version": "2.0.7",
+      "icon": "Hammer.js.png",
+      "website": "https://hammerjs.github.io",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "Nginx",
+      "confidence": "100",
+      "version": "1.8.1",
+      "icon": "Nginx.svg",
+      "website": "http://nginx.org/en",
+      "categories": [
+        {
+          "22": "Web Servers"
+        },
+        {
+          "64": "Reverse Proxy"
+        }
+      ]
+    },
+    {
+      "name": "Varnish",
+      "confidence": "100",
+      "version": null,
+      "icon": "Varnish.svg",
+      "website": "http://www.varnish-cache.org",
+      "categories": [
+        {
+          "23": "Cache Tools"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}

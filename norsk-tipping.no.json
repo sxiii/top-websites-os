@@ -1,0 +1,60 @@
+{
+  "urls": {
+    "https://norsk-tipping.no/": {
+      "status": 200
+    }
+  },
+  "applications": [
+    {
+      "name": "AngularJS",
+      "confidence": "100",
+      "version": null,
+      "icon": "AngularJS.svg",
+      "website": "https://angularjs.org",
+      "categories": [
+        {
+          "12": "JavaScript Frameworks"
+        }
+      ]
+    },
+    {
+      "name": "HeadJS",
+      "confidence": "100",
+      "version": null,
+      "icon": "HeadJS.png",
+      "website": "http://headjs.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "100",
+      "version": "3.3.1",
+      "icon": "jQuery.svg",
+      "website": "https://jquery.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    },
+    {
+      "name": "jQuery UI",
+      "confidence": "100",
+      "version": "1.12.1",
+      "icon": "jQuery UI.svg",
+      "website": "http://jqueryui.com",
+      "categories": [
+        {
+          "59": "JavaScript Libraries"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "language": "no"
+  }
+}
