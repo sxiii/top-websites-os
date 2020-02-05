@@ -12,6 +12,9 @@ Script that checks server's operating systems based on specified list of website
 3) Run `./scan-top.sh`. This step requires internet and root (if your docker requires root) and will generate JSONs based on Wappalyzer runned inside docker. Finally, it'll put them into json folder.
 4) Run `./process-top.sh`. You will see which websites uses which OSes.
 
+# Clean-up
+To clean everything except the scripts; just remove the contents of json folder: `rm -rf ./json/*`.
+
 # This code is in development
 * Found a bug? File an issue!
 * Want an improvement? File an issue!
