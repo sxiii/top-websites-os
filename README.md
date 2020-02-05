@@ -19,5 +19,5 @@ Script that checks server's operating systems based on specified list of website
 * Current version includes list of top-30 Norwegian websites as demo for scan.
 
 # Features wanted
-* Getting visitors count automatically and for free for exact same websites (e.g., results parsed from similarweb or something)
+* Getting visitors count automatically and for free for exact same websites (e.g., results parsed from similarweb)
 * Maybe using other fingerprinting methods as additional or basic method (from Kali toolkit?...)
