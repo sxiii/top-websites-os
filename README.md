@@ -8,7 +8,7 @@ Script that checks server's operating systems based on specified list of website
 
 # How to run
 1) `git clone https://github.com/sxiii/top-websites-os`
-2) Replace or add your website link to the top of the file `scan-top.sh` (add into ntweb array)
+2) `cd top-websites-os` and replace or add your website link to the top of the file `scan-top.sh` (add into ntweb array)
 3) Run `./scan-top.sh.` This step requires internet and root (if your docker requires root) and will generate JSONs based on Wappalyzer runned inside docker. Finally, it'll put them into json folder.
 4) Run ./process-top.sh. You will see which websites uses which OSes.
 
